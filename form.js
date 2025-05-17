@@ -1,1 +1,0 @@
-// Placeholder JS file for MidSouth Booking Form
